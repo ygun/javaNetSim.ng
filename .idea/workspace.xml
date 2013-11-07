@@ -5,7 +5,7 @@
     <ignored path="javaNetSim.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="d00ad4aa-a932-4e0e-8650-f53cefff0b23" time="1383850917535" ignored="false" />
-    <file path="/Dummy.txt" changelist="d00ad4aa-a932-4e0e-8650-f53cefff0b23" time="1383851871762" ignored="false" />
+    <file path="/Dummy.txt" changelist="d00ad4aa-a932-4e0e-8650-f53cefff0b23" time="1383852016850" ignored="false" />
     <file path="/README.txt" changelist="d00ad4aa-a932-4e0e-8650-f53cefff0b23" time="1383850659472" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GuiCSUDSU.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GuiCSUDSU.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guiUI/GuiCSUDSU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="11" selection-start="234" selection-end="234" vertical-scroll-proportion="0.49571183">
+            <state line="17" column="11" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="54" selection-start="138" selection-end="138" vertical-scroll-proportion="0.087478556">
               <folding />
             </state>
           </provider>
@@ -472,14 +481,22 @@
       <created>1383851873271</created>
       <updated>1383851873271</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="settings for IDEA">
+      <created>1383851950468</created>
+      <updated>1383851950468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="settings for IDEA">
+      <created>1383852018073</created>
+      <updated>1383852018073</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -595,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="103" selection-end="103" vertical-scroll-proportion="0.087478556">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest.mf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -639,7 +649,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guiUI/GuiCSUDSU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="234" selection-end="234" vertical-scroll-proportion="0.49571183">
+        <state line="17" column="11" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="54" selection-start="138" selection-end="138" vertical-scroll-proportion="0.087478556">
           <folding />
         </state>
       </provider>
