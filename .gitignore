@@ -217,5 +217,5 @@ pip-log.txt
 #############
 ## IntelliJ IDEA
 #############
-workspace.xml
+.idea/workspace.xml
 out/
